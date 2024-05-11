@@ -1,7 +1,3 @@
-### Hi there 👋
-
-
-
 ## 🌐 Socials:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/maria.rancap) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maria-czarlette-rancap-15b1702b0) 
@@ -19,4 +15,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=razcelett&theme=dark&hide_border=false&include_all_commits=true&count_private=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=razcelett&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=razcelett&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=razcelett&theme=dark&hide_border=false)
+
